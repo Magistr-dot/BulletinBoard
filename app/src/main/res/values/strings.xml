@@ -10,4 +10,8 @@
     <string name="ad_sign_up">Регистрация</string>
     <string name="ad_sign_in">Вход</string>
     <string name="ad_sign_out">Выход</string>
+    <string name="email">alex178@mail.ru</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="ava_image">Ava Image</string>
 </resources>

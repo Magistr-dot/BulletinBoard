@@ -11,7 +11,7 @@
                 android:id="@+id/car"
                 android:title="@string/ad_car" />
             <item
-                android:id="@+id/my_pc"
+                android:id="@+id/pc"
                 android:title="@string/ad_pc" />
             <item
                 android:id="@+id/sp"
